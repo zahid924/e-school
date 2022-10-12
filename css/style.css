@@ -1,0 +1,39 @@
+/* common start  */
+body{
+    font-family: sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    color:black
+}
+/* common end  */
+/* header start  */
+header{
+    background-color: #F0FFF0;
+    ;
+}
+.c_nav{} 
+.logo{
+    width: 195px;
+}
+.menu ul li a {
+    font-size: 16px;
+    font-weight: 400;
+    color:black !important;
+    line-height: 24px;
+    padding: 0 25px !important;
+}
+.menu ul li a:hover{
+    color: #fd511a !important;
+}
+
+.btn_common{
+    background-color: #21B573;
+    border-radius: 33px;
+    color: white;
+}
+.btn_header{
+    height: 43px; ;
+    width: 104px;
+    
+}
+/* header end  */
